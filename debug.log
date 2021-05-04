@@ -1,0 +1,51 @@
+[0831/014210.378:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd8bd3ef000 of 69632 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0831/014210.380:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0831/014210.380:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\JPV\AppData\Local\Temp\scoped_dir18904_17891\Crashpad\reports\07021dcc-3b1a-4d0c-96b6-b15ce1a7987f.dmp: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso. (0x20)
+[0831/014210.381:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0831/045250.810:ERROR:process_reader_win.cc(242)] ReadMemory at 0x9b5a3ef000 of 69632 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0831/045250.810:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0831/045250.810:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\JPV\AppData\Local\Temp\scoped_dir2456_13090\Crashpad\reports\b64e4569-9b88-4842-bf8c-e7682cb07084.dmp: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso. (0x20)
+[0831/045250.810:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0901/162636.517:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14656_30213\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0901/162636.518:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14656_30213\Crashpad\reports\2eb985b4-1289-4c27-af50-b4aea18f7f10.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0901/162636.518:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0904/234028.351:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir4168_19386\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0904/234028.351:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir4168_19386\Crashpad\reports\7262bddc-555a-43c8-a954-b9725c35b2b7.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0904/234028.351:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0905/013403.930:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir12532_3426\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/013403.932:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir12532_3426\Crashpad\reports\eae6a62f-2b50-4ca9-bfab-47c469c96a64.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/013403.932:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0905/014057.681:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir10600_21028\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/014057.682:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir10600_21028\Crashpad\reports\05cf3c2b-e60b-418d-9153-46e3ac8d5dba.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/014057.682:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0905/021959.875:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir9224_9099\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/021959.876:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir9224_9099\Crashpad\reports\04f16fad-2e76-4c4b-95ad-7c7f42c898fd.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0905/021959.876:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0906/061715.374:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir1184_28943\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0906/061715.374:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir1184_28943\Crashpad\reports\83f1a498-2227-4fe8-ae46-788805ac9f6f.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0906/061715.374:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0906/062125.022:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir7076_21850\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0906/062125.022:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir7076_21850\Crashpad\reports\fbb7e65a-a64e-429e-937e-0688af5f5739.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0906/062125.022:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/105956.450:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir18756_26884\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/105956.451:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir18756_26884\Crashpad\reports\7960bee6-9e5d-4444-ba8c-177fe3ef3861.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/105956.451:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/120832.649:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir19488_22244\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/120832.650:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir19488_22244\Crashpad\reports\0f569f4a-ae02-4101-ac07-b6b5fafdd8f0.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/120832.651:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/133640.563:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14908_16170\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/133640.563:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14908_16170\Crashpad\reports\4a5ad5ae-e2c7-41d5-ba6d-ad223c3ab8af.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/133640.563:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/161015.412:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir22692_27829\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/161015.412:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir22692_27829\Crashpad\reports\587eed90-8b14-47bc-8c15-07f2132c2cb5.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/161015.412:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/194356.032:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14744_24807\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/194356.034:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir14744_24807\Crashpad\reports\8c38ebd6-ac74-499f-9bc4-ae224b369aea.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/194356.034:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0907/194855.219:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir16496_11912\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/194855.220:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir16496_11912\Crashpad\reports\1c597b8c-a005-4a60-90aa-015fbbf33e8e.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0907/194855.220:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0914/210545.228:ERROR:file_io_win.cc(161)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir7312_20336\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0914/210545.234:ERROR:file_io_win.cc(170)] CreateFile C:\Users\JPV\AppData\Local\Temp\scoped_dir7312_20336\Crashpad\reports\ef1c4c96-9b1b-4c43-b2ef-0f7c4d690887.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0914/210545.234:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0310/125913.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
